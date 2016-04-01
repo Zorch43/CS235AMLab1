@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="HelloM4A/HelloM4A.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HelloM4A/MainActivity.cs" Line="27" Column="1" />
+      <File FileName="HelloM4A/Resources/values/Strings.xml" Line="4" Column="62" />
+      <File FileName="HelloM4A/obj/Debug/android/manifest/AndroidManifest.xml" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloM4A AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
